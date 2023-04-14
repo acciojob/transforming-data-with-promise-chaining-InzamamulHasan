@@ -1,5 +1,6 @@
 //your JS code here. If required.
-ocument.getElementById("btn").addEventListener("click",func);
+document.getElementById("btn").addEventListener("click",func);
+
 function func(){
     console.log("got");
 		let val=document.querySelector("#ip").value;
